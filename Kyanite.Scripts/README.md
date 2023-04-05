@@ -2,7 +2,7 @@
 This folder contains useful python scripts that help develop, and build new Kyanite releases.
 
 > **Currently available scripts**
-> * `check_old_labels.py` - used for checking for any `star-os`, or `staros` in any of the project files, staros is the old name of the Kyanite project,
+> * `check_old_labels.py` - used for checking for any `star-os`, or `staros` keywords in any of the project files, staros is the old name of the Kyanite project,
 > * `copy_iso.py` - used to quickly copy Kyanite .iso file from Cosmos debug folder to Kyanite build folder.
 
 To add your own script, please:
