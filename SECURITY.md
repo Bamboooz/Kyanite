@@ -6,6 +6,7 @@ Supported Kyanite versions:
 
 | Version | Supported          | End Of Support                       |
 |---------| ------------------ | ------------------------------------ |
+| v1.0.1  | :white_check_mark: | 1 week after next release            |
 | v1.0.0  | :white_check_mark: | 1 week after next release            |
 
 ## Security Bulletins
