@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System;
 using Sys = Cosmos.System;
 
-namespace Kyanite
+namespace Kyanite.Core
 {
     public class Kernel : Sys.Kernel
     {
