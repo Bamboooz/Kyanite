@@ -57,7 +57,7 @@ Kyanite is powered by [CosmosOS](https://github.com/CosmosOS/Cosmos) which is a 
 If you want to report any bug, or other mistakes, please create an Issue
  * [Issues](https://github.com/issues)
 
-Additional [Kyanite](https://github.com/Bamboooz/Kyanite) information you can get on the [Kyanite wiki](https://github.com/Bamboooz/Kyanite/wiki).
+> Additional [Kyanite](https://github.com/Bamboooz/Kyanite) information you can get on the [Kyanite wiki](https://github.com/Bamboooz/Kyanite/wiki).
 
 ## License
 
