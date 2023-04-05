@@ -1,4 +1,4 @@
-﻿# KyaniteOS
+﻿# Kyanite
 <div align="center">
 
 [![Kyanite](https://github.com/Bamboooz/Kyanite/blob/master/Media/banner.png)](https://github.com/Bamboooz/Media)
