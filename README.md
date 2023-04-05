@@ -18,8 +18,8 @@ Kyanite - A powerful & secure Cosmos-based operating system.
 Kyanite is powered by [CosmosOS](https://github.com/CosmosOS/Cosmos) which is a tool to create operating systems using C# .NET technology.
 
 ## Translations
-> Currently available Kyanite operating system translations:
->  * English ![Translation](https://img.shields.io/badge/translation-100%25-green)
+> *Currently available Kyanite operating system translations:*<br/>
+> ![Translation](https://img.shields.io/badge/English-100%25-green)
 
 ## Running Kyanite
 
