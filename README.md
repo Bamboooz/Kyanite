@@ -1,7 +1,7 @@
 ﻿# Kyanite
 <div align="center">
 
-[![Kyanite](https://github.com/Bamboooz/Kyanite/blob/master/Media/banner.png)](https://github.com/Bamboooz/Media)
+[![Kyanite](https://github.com/Bamboooz/Kyanite/blob/master/Art/banner.png)](https://github.com/Bamboooz/Kyanite)
 
 ![Top language](https://img.shields.io/github/languages/top/Bamboooz/Kyanite?color=purple&label=%20&logo=csharp&style=flat-square)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?color=)](https://opensource.org/licenses/MIT)
