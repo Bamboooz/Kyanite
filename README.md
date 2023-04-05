@@ -46,7 +46,7 @@ Kyanite is powered by [CosmosOS](https://github.com/CosmosOS/Cosmos) which is a 
 > 
 >  After you got all of the above right click project name and press `Properties`, then select your desired virtualization software.
 >  
->  > Then you have to open your virtualization software, and create a new operating system using Kyanite.iso, run the operating system and enjoy Kyanite!
+>  Then you have to open your virtualization software, and create a new operating system using Kyanite.iso, run the operating system and enjoy Kyanite!
 
 ## Functions
 
