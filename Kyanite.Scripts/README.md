@@ -1,4 +1,4 @@
-# Developer tools for Kyanite
+# Developer tools for Kyanite 🔧
 This folder contains useful python scripts that help develop, and build new Kyanite releases.
 
 > Currently available scripts
