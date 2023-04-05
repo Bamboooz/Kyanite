@@ -9,5 +9,3 @@ To add your own script, please:
 1. Open a [pull request](https://github.com/Bamboooz/Kyanite/pulls),
 2. Add your script with its description into this README,
 3. Wait until your commit it merged.
-
-
