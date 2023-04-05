@@ -6,7 +6,7 @@
 ![Top language](https://img.shields.io/github/languages/top/Bamboooz/Kyanite?color=purple&label=%20&logo=csharp&style=flat-square)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?color=)](https://opensource.org/licenses/MIT)
 [![netcorever](https://img.shields.io/badge/.NET-Core%206.0-green)](https://en.wikipedia.org/wiki/.NET_Core)
-![Release](https://img.shields.io/github/v/release/Bamboooz/Kyanite?color=yellow?style=flat-square)
+[![Release](https://img.shields.io/github/v/release/Bamboooz/Kyanite?color=yellow?style=flat-square)](https://github.com/Bamboooz/Kyanite/releases/tag/v1.0.0)
 ![Lines of code](https://www.aschey.tech/tokei/github/Bamboooz/Kyanite?style=flat-square)
 ![Code side](https://img.shields.io/github/languages/code-size/Bamboooz/Kyanite?color=red)
 
@@ -16,6 +16,10 @@
 
 Kyanite - A powerful & secure Cosmos-based operating system.
 Kyanite is powered by [CosmosOS](https://github.com/CosmosOS/Cosmos) which is a tool to create operating systems using C# .NET technology.
+
+## Translations
+> Currently available Kyanite operating system translations:
+>  * English ![Translation](https://img.shields.io/badge/translation-100%25-green)
 
 ## Running Kyanite
 
