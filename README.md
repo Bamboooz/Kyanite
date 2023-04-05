@@ -1,5 +1,4 @@
-﻿# Kyanite
-<div align="center">
+﻿<div align="center">
 
 [![Kyanite](https://github.com/Bamboooz/Kyanite/blob/master/Art/banner.png)](https://github.com/Bamboooz/Kyanite)
 
