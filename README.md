@@ -26,7 +26,7 @@ Kyanite is powered by [CosmosOS](https://github.com/CosmosOS/Cosmos) which is a 
 ## Running Kyanite
 
 ### Using .iso file
-> You can run Kyanite using an .iso file, which you can download [here](), as well as a virtualization software to run it on.
+> You can run Kyanite using an .iso file, which you can download [here](https://github.com/Bamboooz/Kyanite/blob/master/Kyanite.build/Kyanite.iso), as well as a virtualization software to run it on.
 
 > **Do not run this on your real machine! CosmosOS filesystem may damage your data and make it inaccessible forever!**
 > Here are some tools that you can use for safe emulation:

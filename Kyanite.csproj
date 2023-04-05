@@ -32,4 +32,8 @@
       <Folder Include="Media\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Include="Kyanite.Plugs\Kyanite.Plugs.csproj" />
+    </ItemGroup>
+
 </Project>
