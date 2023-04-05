@@ -19,6 +19,7 @@ Kyanite is powered by [CosmosOS](https://github.com/CosmosOS/Cosmos) which is a 
 
 ## Translations
 > *Currently available Kyanite operating system translations:*<br/>
+
 > ![Translation](https://img.shields.io/badge/English-100%25-green)
 
 ## Running Kyanite
