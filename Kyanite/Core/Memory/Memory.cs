@@ -1,4 +1,4 @@
-namespace Kyanite.Core.Memory
+namespace Kyanite.Core
 {
     internal class Memory
     {

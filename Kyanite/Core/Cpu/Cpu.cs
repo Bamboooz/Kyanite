@@ -1,4 +1,4 @@
-namespace Kyanite.Core.Cpu
+namespace Kyanite.Core
 {
     internal static class Cpu
     {

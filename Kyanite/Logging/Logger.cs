@@ -8,11 +8,11 @@ namespace Kyanite.Logging
 {
     internal class Logger
     {
-        public static string[] Logs = {};
+        public static List<string> Logs = new List<string>();
 
         internal static void Log(string LogMessage)
         {
-            Logs.Append(LogMessage);
+            Logs.Add(LogMessage);
         }
 
         internal static void ReadLogs()

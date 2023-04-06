@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Kyanite.Shell
+namespace Kyanite
 {
     internal class Util
     {
@@ -12,21 +8,30 @@ namespace Kyanite.Shell
         {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.DarkCyan;
-            Console.WriteLine(@"                                    /\");
-            Console.WriteLine(@"                                   / /\");
-            Console.WriteLine(@"                                  /\/  \");
-            Console.WriteLine(@"                                 /  \   \");
-            Console.WriteLine(@"                                /\   \  /\");
-            Console.WriteLine(@"                               /  \   \/  \");
-            Console.WriteLine(@"                               \  /\  /\  /");
-            Console.WriteLine(@"                                \/  \/  \/");
-            Console.WriteLine(@"                                 \  /   /");
-            Console.WriteLine(@"                                  \/   /");
-            Console.WriteLine(@"                                   \  /");
-            Console.WriteLine(@"                                    \/");
-            Console.WriteLine("");
-            Console.WriteLine("");
+            Console.Write(@"                /\     ");
             Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(@"                          _ _       ");
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write(@"               /\/\    ");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(@"   /\ /\_   _  __ _ _ __ (_) |_ ___ ");
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write(@"              /  \ \   ");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(@"  / //_/ | | |/ _` | '_ \| | __/ _ \");
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write(@"              \  /\/   ");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(@" / __ \| |_| | (_| | | | | | ||  __/");
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write(@"               \/ /    ");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(@" \/  \/ \__, |\__,_|_| |_|_|\__\___|");
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write(@"                \/     ");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(@"        |___/     ");
+            Console.WriteLine("");
         }
 
         public static void DrawKyanite(bool NewLine)

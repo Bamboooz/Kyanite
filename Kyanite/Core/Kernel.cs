@@ -1,7 +1,6 @@
 using System;
 using Sys = Cosmos.System;
 using Kyanite.Logging;
-using Kyanite.Shell;
 
 namespace Kyanite.Core
 {
@@ -37,7 +36,7 @@ namespace Kyanite.Core
         {
             // Initialize Kyanite prompt
             Logger.Log("Initializing Kyanite shell...");
-            Shell.Shell.Initialize();
+            Shell.Initialize();
         }
     }
 }

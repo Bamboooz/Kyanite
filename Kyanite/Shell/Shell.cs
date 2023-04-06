@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kyanite.Shell
+namespace Kyanite
 {
     public class Shell
     {
